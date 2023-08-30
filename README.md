@@ -40,7 +40,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - While creating the VM, select the previously created Resource Group
 - While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
 - Create a Linux (Ubuntu) VM
-- While create the VM, select the previously created Resource Group and Vnet
+- While creating the VM, select the previously created Resource Group and Vnet
 - Observe Your Virtual Network within Network Watcher
 
 <br />
@@ -68,7 +68,10 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 <br />
 
 <p>
-<img src="https://i.imgur.com/CnmBZCp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fBIcS9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/y0hSI1J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Observe SSH Traffic
